@@ -1,5 +1,7 @@
 This is a plain text file.
 
-There's nothing important thing but... Let's put 'History' as it's tittle.
-Oh my... need a new change.
-Ok.That's the end. Bye :)
+There's nothing important thing but...
+
+let's put 'History' as it's tittle.
+
+:)
