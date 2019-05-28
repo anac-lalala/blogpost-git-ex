@@ -5,3 +5,35 @@ There's nothing important thing but...
 let's put 'History' as it's tittle.
 
 :)
+
+Lista de comandos git.
+
+git init Crea el repositorio con origen en master
+
+git rm --cached historia.txt Saca un archivo del staging
+
+git config --list Lista las configuraciones de git
+
+git log __nombre del archivo Muestra la historia de un archivo y se puede especificar el archivo o todo el repo en generar.
+
+git show Muestra los cambios entre la version actual y la anterior.
+
+git diff __version_vieja __nueva_version Compara los comit
+
+git reset __version Regresa a una version antigua
+–hard Regresa todo al estado anterior
+–soft Regresa todo al staging como si estuviera en git add .
+
+git log --stat Muestra los cambios que se han hecho.
+
+git chackout __version Modifica el archivo a una version antigua
+
+git checkout master Regresa el archivo a la ultima version o master si no se modifica.
+
+git commit -a Genera un commit y jalando los archivos modificador y generaando el mensaje desde vi.
+
+git branch __nombrerama Crea una rama
+
+git branch Muestra las ramas
+
+git branch -d __nombrerama Elimina un rama
