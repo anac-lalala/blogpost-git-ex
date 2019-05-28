@@ -15,3 +15,14 @@ body {
     font-size: 1.5em;
     
 }
+
+.header{
+    background: rgb(151, 209, 76);
+    display: flex;
+    padding: 1em; 
+    align-items: center;
+}
+
+.header span {
+    margin-left: 1em;
+}
