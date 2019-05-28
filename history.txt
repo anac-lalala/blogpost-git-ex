@@ -37,3 +37,5 @@ git branch __nombrerama Crea una rama
 git branch Muestra las ramas
 
 git branch -d __nombrerama Elimina un rama
+
+git log --decorate --graph --oneline  ¡Para ver como se separan y unen las ramas!
